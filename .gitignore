@@ -1,0 +1,16 @@
+# Generated directories:
+dist/
+node_modules/
+.vscode/
+logs/
+
+# Generated files:
+*.tsbuildinfo
+
+# Lockfiles:
+pnpm-lock.yaml
+package-lock.json
+
+# Environment Variables:
+.env
+src/config.ts
